@@ -12,6 +12,7 @@
     - 2D/3D Multiple Object Tracking
     - Panoptic Segmentation
   - 📶 Engineering
+    - Deep Learning
     - Nvidia TensorRT
     - C / CPP / Python
     - PyQT
