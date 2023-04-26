@@ -28,4 +28,4 @@
   - 📧 email: xiaoqiang.cheng@foxmail.com
   - 🗞️ blog page: geekcontrol.cn
 
-![Xiaoqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinkerkey&count_private=true&show_icons=true)
+![Xiaoqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoqiang-cheng&count_private=true&show_icons=true)
