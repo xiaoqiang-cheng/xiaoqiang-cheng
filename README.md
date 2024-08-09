@@ -3,7 +3,7 @@
 - 💬 About me:
   - 🏫 Yanshan University         2014 - 2018
   - 🏫 Tianjin University         2018 - 2021
-  - 🏢 UISEE Technology (Beijing) 2021 - .
+  - 🏢 UISEE Technology (Shenzhen) 2021 - .
 
 - 🔭 Profession
   - 🚗 Self-driving Car
@@ -26,6 +26,6 @@
 
 - 📲 Concat me
   - 📧 email: xiaoqiang.cheng@foxmail.com
-  - 🗞️ blog page: geekcontrol.cn
+  - 🗞️ homepage: xiaoqiang-cheng.github.io
 
 ![Xiaoqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoqiang-cheng&count_private=true&show_icons=true)
