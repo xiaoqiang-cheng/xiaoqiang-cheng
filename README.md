@@ -11,6 +11,7 @@
     - 2D/3D Object Detection
     - 2D/3D Multiple Object Tracking
     - Panoptic Segmentation
+    - 3D Occupancy
   - 📶 Engineering
     - Deep Learning
     - Nvidia TensorRT
@@ -21,7 +22,7 @@
 
 - 🙂 Hobby
   - 🏸 badminton
-  - 🏓 ping pang
+  - 🏓 ping pong
   - 🚶 hiking
 
 - 📲 Concat me
