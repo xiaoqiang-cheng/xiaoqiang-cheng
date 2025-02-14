@@ -1,10 +1,11 @@
 ### Hey All 👋
 
 - 💬 About me:
-  - 🏫 Yanshan University         2014 - 2018
+  - 🏢 DJI                        2024 - .
+  - 🏢 UISEE Technology           2021 - 2024
   - 🏫 Tianjin University         2018 - 2021
-  - 🏢 UISEE Technology (Shenzhen) 2021 - .
-
+  - 🏫 Yanshan University         2014 - 2018
+ 
 - 🔭 Profession
   - 🚗 Self-driving Car
   - 💻 Computer Vision
