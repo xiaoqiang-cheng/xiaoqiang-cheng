@@ -1,7 +1,7 @@
 ### Hey All 👋
 
 - 💬 About me:
-  - 🏢 DJI                        2024 - .
+  - 🏢 DJI                        2024 - 2026
   - 🏢 UISEE Technology           2021 - 2024
   - 🏫 Tianjin University         2018 - 2021
   - 🏫 Yanshan University         2014 - 2018
