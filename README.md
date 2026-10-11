@@ -1,12 +1,14 @@
 ### Hey All 👋
 
 - 💬 About me:
+  - 🏢 Discover Robotics          2026 - ?
   - 🏢 DJI                        2024 - 2026
   - 🏢 UISEE Technology           2021 - 2024
   - 🏫 Tianjin University         2018 - 2021
   - 🏫 Yanshan University         2014 - 2018
  
 - 🔭 Profession
+  - 🤖 LLM Agent
   - 🚗 Self-driving Car
   - 💻 Computer Vision
     - 2D/3D Object Detection
